@@ -1,3 +1,4 @@
+// It's every pages inside this folder's basic layout
 import "@/app/ui/global.css"
 import { inter } from '@/app/ui/fonts';
 
